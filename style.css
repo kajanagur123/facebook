@@ -1,0 +1,136 @@
+.ab{
+    text-align: center;
+
+}
+.login{
+    color: blue;
+}
+button{
+    background-color: rgb(19, 240, 19);
+    color: #fff;
+    border-radius: 5px;
+    width: 180px;
+    height: 35px;
+    font-size: 24px;
+    font-weight: bolder;
+    border:none;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gender{
+    display: flex;
+justify-content: space-between;   
+color: black; 
+background-color: #fff;
+margin: 9px;
+}
+.info{
+    border: 1px solid gray;
+    width: 120px;
+    height: 30px;
+    border-radius: 10px;
+    padding: 10px;
+
+
+
+}
+.button{
+    display: flex;
+    justify-content: center;
+}
+
+.min{
+    
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 12px;
+    display: flex;
+    border-radius: 10px;
+    justify-content: space-between;
+}
+.name{
+    width: 45%;
+    border-radius: 5px;
+    padding: 8px;
+}
+.names{
+    width: 45%;
+    border-radius:5px ;
+    padding: 8px;
+    
+}
+.ki{
+    width:90%;
+    padding: 10px;
+    border-radius:5px;
+    margin: 9px;
+
+}
+.db{
+    margin: 9px;
+}
+select{
+    width: 100%;
+    
+
+}
+.kings{
+    width: 90%;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+.heading{
+    background-color: #fff;
+    width:450px;
+    display: flex;
+    
+
+}
+.ab{
+    color: black;
+}
+.date{
+    display: flex;
+    margin: 9px;
+    
+    
+}
+input{
+    padding: 10px;
+
+}
+.king{
+    display: flex;
+    flex-direction: column;
+}
+.kings{
+    margin: 10px;
+}
+.ki{
+    margin-top: 10px;
+
+}
+.about{
+    color: black;
+}
+body,h1{
+    margin: 0;
+
+}
+.in{
+    color: black;
+}
+.main{
+    background-color: #f0f2f5;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.sign{
+    width: 430px;
+    color: #fff;
+}
